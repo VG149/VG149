@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 
+My name is Victor Gabriel, currently I'm studying at FATEC
+
+* 🌱 I’m currently learning Python, DataSecurity, C#, Java
+* 🤝 I’m lookinging foward to work so I can improve my programming skills and learn new things
 <!--
 **VG149/VG149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
